@@ -29,6 +29,4 @@ Learning Outcomes
 
 This project helps me practice Python programming, conditional statements, loops, functions, and basic banking operations.
 
-Author
 
-BCA Student
